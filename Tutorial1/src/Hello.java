@@ -4,7 +4,7 @@ public class Hello {
 	public static void main(String[] args) {
 		//First program to say Hello to the world
 		
-		System.out.println("Hello World!!");
+		System.out.println("Hello Beautiful World!!");
 		
 		//variables
 		
